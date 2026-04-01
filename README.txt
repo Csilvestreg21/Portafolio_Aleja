@@ -1,56 +1,101 @@
+========================================
+Alejandra Gómez – Portfolio
+========================================
 
-TITLE: 
-Marble - Fully Responsive Free HTML5 template
+Professional portfolio focused on QA Analyst / QA Leader, showcasing experience, skills, education, and contact channels.
 
-AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+----------------------------------------
+DESCRIPTION
+----------------------------------------
+
+This portfolio includes:
+
+- Professional QA experience
+- Technical skills (testing, APIs, automation)
+- Academic background
+- Contact options (WhatsApp, Email, LinkedIn)
+- Responsive and modern design
+
+----------------------------------------
+TECHNOLOGIES USED
+----------------------------------------
+
+- HTML5
+- CSS3
+- Bootstrap
+- JavaScript
+- jQuery
+
+----------------------------------------
+INSTALLATION & USAGE
+----------------------------------------
+
+1. Clone the repository:
+   git clone https://github.com/Csilvestreg21/Portafolio_Aleja.git
+
+2. Go to the project folder:
+   cd Portafolio_Aleja
+
+3. Open in browser:
+   index.html
+
+----------------------------------------
+GIT WORKFLOW
+----------------------------------------
+
+Before starting work:
+   git pull origin main
+
+After making changes:
+   git add .
+   git commit -m "Clear description of changes"
+   git push origin main
+
+----------------------------------------
+BEST PRACTICES
+----------------------------------------
+
+Work with branches:
+   git checkout -b feature/new-section
+   git push origin feature/new-section
+
+----------------------------------------
+CONTACT
+----------------------------------------
+
+Email: alejagomo@gmail.com
+WhatsApp: https://wa.me/573122820526
+LinkedIn: https://www.linkedin.com/in/alejagomo/
+
+----------------------------------------
+TEMPLATE CREDITS
+----------------------------------------
+
+Marble - Fully Responsive Free HTML5 Template
+Designed & Developed by FREEHTML5.co
 
 Website: http://freehtml5.co/
 Twitter: http://twitter.com/fh5co
 Facebook: http://facebook.com/fh5co
 
+----------------------------------------
+LIBRARIES & RESOURCES
+----------------------------------------
 
-CREDITS:
+Bootstrap: http://getbootstrap.com/
+jQuery: http://jquery.com/
+jQuery Easing: http://gsgd.co.uk/sandbox/jquery/easing/
+Modernizr: http://modernizr.com/
+Google Fonts: https://fonts.google.com/
+Icomoon: https://icomoon.io/
+Animate.css: https://animate.style/
+Waypoints: https://github.com/imakewebthings/waypoints
+Owl Carousel: https://owlcarousel2.github.io/
+Stellar.js: http://markdalgleish.com/projects/stellar.js/
+jQuery CountTo: https://github.com/mhuggins/jquery-countTo
 
-Bootstrap
-http://getbootstrap.com/
+----------------------------------------
+LICENSE
+----------------------------------------
 
-jQuery
-http://jquery.com/
-
-jQuery Easing
-http://gsgd.co.uk/sandbox/jquery/easing/
-
-Modernizr
-http://modernizr.com/
-
-Google Fonts
-https://www.google.com/fonts/
-
-Icomoon
-https://icomoon.io/app/
-
-Respond JS
-https://github.com/scottjehl/Respond/blob/master/LICENSE-MIT
-
-animate.css
-http://daneden.me/animate
-
-jQuery Waypoints
-https://github.com/imakewebthings/waypoints/blog/master/licenses.txt
-
-Demo Images:
-http://pexels.com
-
-Owl Carousel
-http://www.owlcarousel.owlgraphic.com/
-
-Stellar Parallax
-http://markdalgleish.com/projects/stellar.js/
-
-jQuery counTo
-https://github.com/mhuggins/jquery-countTo
-
-Google Map
-https://maps.google.com/
-
+Free for personal and professional use under the original template license.
