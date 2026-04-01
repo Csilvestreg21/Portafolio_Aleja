@@ -68,17 +68,6 @@ WhatsApp: https://wa.me/573122820526
 LinkedIn: https://www.linkedin.com/in/alejagomo/
 
 ----------------------------------------
-TEMPLATE CREDITS
-----------------------------------------
-
-Marble - Fully Responsive Free HTML5 Template
-Designed & Developed by FREEHTML5.co
-
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
-
-----------------------------------------
 LIBRARIES & RESOURCES
 ----------------------------------------
 
